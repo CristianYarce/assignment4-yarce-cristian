@@ -39,19 +39,19 @@ header nav a {
     text-transform: uppercase;
 }
 
-main{
+main {
   background: white;
   margin: 0 auto;
   max-width: 600px;
   padding: 50px;
 }
 
-body{
+body {
   background-image: url('../images/background.png');
 }
 
 
-h1{
+h1 {
   color: red;
   font-family: 'myfontt';
   text-align: center;
@@ -59,7 +59,7 @@ h1{
   text-transform: uppercase;
 }
 
-p{
+p {
   font-family: 'Heebo', sans-serif;
   padding-bottom: 30px;
   padding-top: 20px;
