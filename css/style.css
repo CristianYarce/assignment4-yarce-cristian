@@ -86,3 +86,22 @@ p{
   max-width: 600px;
   padding: 20px 30px 5px 30px;
 }
+
+.ball {
+  position: absolute;
+}
+
+.ball {
+  width: 70px;
+  top: 150px;
+  animation: ballmove 20s linear infinite reverse;
+}
+
+@keyframes ballmove {
+  from {
+    left: 1200px;
+  }
+  to {
+    left: 180px;
+  }
+}
